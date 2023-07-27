@@ -8,7 +8,9 @@ author:
   email: jojolebarjos@gmail.com
   #avatar: /images/avatar.jpg
 
-theme: FixIt
+theme:
+- FixIt
+- hugo-cite
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -86,6 +88,10 @@ params:
 
     share:
       enable: false
+
+    library:
+      css:
+      - /hugo-cite.css
 
   cookieconsent:
     enable: false
