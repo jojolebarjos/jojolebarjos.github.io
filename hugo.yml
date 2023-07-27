@@ -46,7 +46,7 @@ params:
       logo:
       name: Implementation details...
     subtitle:
-      name: or so I thought...
+      name: or so I thought.
 
   footer:
     since: 2023
@@ -61,7 +61,7 @@ params:
       enable: true
       #typeit: false
       title: Implementation details...
-      subtitle: or so I thought...
+      subtitle: or so I thought.
       social: true
       #disclaimer: This is the opportunity to share a few random things, though.
       avatarURL: /images/avatar.jpg
@@ -107,11 +107,16 @@ params:
     dark: "#fff"
 
 markup:
+
   highlight:
     codeFences: true
     lineNos: true
     lineNumbersInTable: true
     noClasses: false
+
+  goldmark:
+    renderer:
+      unsafe: true
 
 outputs:
   home:

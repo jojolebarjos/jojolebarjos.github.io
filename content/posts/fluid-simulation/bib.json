@@ -1,0 +1,18 @@
+[
+  {
+    "id": "gpu-gems",
+    "type": "book",
+    "title": "GPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics",
+    "editor": [
+      {
+        "family": "Randima",
+        "given": "Fernando"
+      }
+    ],
+    "issued": {
+      "date-parts": [[2004, 3]]
+    },
+    "ISBN": "978-0-321-22832-1",
+    "URL": "https://developer.nvidia.com/gpugems"
+  }
+]
