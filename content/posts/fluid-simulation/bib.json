@@ -1,5 +1,48 @@
 [
   {
+    "id": "griebel",
+    "type": "book",
+    "title": "Numerical Simulation in Fluid Dynamics: A Practical Introduction",
+    "author": [
+      {
+        "family": "Griebel",
+        "given": "Michael"
+      },
+      {
+        "family": "Dornsheifer",
+        "given": "Thomas"
+      },
+      {
+        "family": "Neunhoeffer",
+        "given": "Tilman"
+      }
+    ],
+    "issued": {
+      "date-parts": [[1997, 12]]
+    },
+    "publisher": "Society for Industrial and Applied Mathematics",
+    "publisher-place": "Philadelphia",
+    "ISBN": "978-0-89871-398-5"
+  },
+  {
+    "id": "stam",
+    "type": "article-journal",
+    "title": "Stable Fluids",
+    "author": [
+      {
+        "family": "Stam",
+        "given": "Jos"
+      }
+    ],
+    "issued": {
+      "date-parts": [[1999, 7]]
+    },
+    "container-title": "Proceedings of the 26th annual conference on Computer graphics and interactive techniques",
+    "page": "121-128",
+    "publisher": "ACM Press/Addison-Wesley Publishing Co.",
+    "DOI": "10.1145/311535.311548"
+  },
+  {
     "id": "gpu-gems",
     "type": "book",
     "title": "GPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics",
